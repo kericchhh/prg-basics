@@ -1,0 +1,10 @@
+a = 3
+b = 5
+sum = a + b
+minus = a - b
+mult = a * b
+div = a / b
+print(f'{a}+{b}= {sum}')
+print(f'{a}-{b}= {minus}')
+print(f'{a}*{b}= {mult}')
+print(f'{a}/{b}= {div}')
