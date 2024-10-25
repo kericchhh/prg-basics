@@ -17,3 +17,4 @@ def time_string(hours, minutes, format):
 print(f'The time for 15,38,24 is {time_string(15,38,'24')}')
 print(f'The time for 0,5,24 is {time_string(0,5,'24')}')
 print(f'The time for 11,12,12 is {time_string(12,15,'12')}')
+print(f'The time for 1,55,24 is {time_string(1,55,'24')}')
