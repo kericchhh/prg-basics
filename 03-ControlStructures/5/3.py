@@ -8,7 +8,9 @@ while True:
     
     if number == 0:
         break  # Exit the loop when 0 is entered
-    total_sum +=
+    total_sum += number
+    average = total_sum / number
     
 
 print(f"The total sum of the numbers is: {total_sum}")
+print(f"Tht arithmetic mean of the numbers is: {average}")
